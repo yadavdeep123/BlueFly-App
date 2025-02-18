@@ -1,0 +1,17 @@
+.footer{
+    display: flex; 
+    width: auto;
+    margin: auto;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: rgb(250, 250, 250);
+}
+.footer_links_container_item:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+h2{
+    color: black;
+}
